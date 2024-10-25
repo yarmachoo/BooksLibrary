@@ -1,0 +1,15 @@
+D:\work\TestModsen\BooksLibrary\Books.Application\bin\Debug\net8.0\Books.Application.deps.json
+D:\work\TestModsen\BooksLibrary\Books.Application\bin\Debug\net8.0\Books.Application.dll
+D:\work\TestModsen\BooksLibrary\Books.Application\bin\Debug\net8.0\Books.Application.pdb
+D:\work\TestModsen\BooksLibrary\Books.Application\bin\Debug\net8.0\Books.Domain.dll
+D:\work\TestModsen\BooksLibrary\Books.Application\bin\Debug\net8.0\Books.Domain.pdb
+D:\work\TestModsen\BooksLibrary\Books.Application\obj\Debug\net8.0\Books.Application.csproj.AssemblyReference.cache
+D:\work\TestModsen\BooksLibrary\Books.Application\obj\Debug\net8.0\Books.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\TestModsen\BooksLibrary\Books.Application\obj\Debug\net8.0\Books.Application.AssemblyInfoInputs.cache
+D:\work\TestModsen\BooksLibrary\Books.Application\obj\Debug\net8.0\Books.Application.AssemblyInfo.cs
+D:\work\TestModsen\BooksLibrary\Books.Application\obj\Debug\net8.0\Books.Application.csproj.CoreCompileInputs.cache
+D:\work\TestModsen\BooksLibrary\Books.Application\obj\Debug\net8.0\Books.Application.csproj.CopyComplete
+D:\work\TestModsen\BooksLibrary\Books.Application\obj\Debug\net8.0\Books.Application.dll
+D:\work\TestModsen\BooksLibrary\Books.Application\obj\Debug\net8.0\refint\Books.Application.dll
+D:\work\TestModsen\BooksLibrary\Books.Application\obj\Debug\net8.0\Books.Application.pdb
+D:\work\TestModsen\BooksLibrary\Books.Application\obj\Debug\net8.0\ref\Books.Application.dll

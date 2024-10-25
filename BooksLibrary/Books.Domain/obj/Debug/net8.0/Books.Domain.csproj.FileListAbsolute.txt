@@ -1,0 +1,13 @@
+D:\work\TestModsen\BooksLibrary\Books.Domain\bin\Debug\net8.0\Books.Domain.deps.json
+D:\work\TestModsen\BooksLibrary\Books.Domain\bin\Debug\net8.0\Books.Domain.dll
+D:\work\TestModsen\BooksLibrary\Books.Domain\bin\Debug\net8.0\Books.Domain.pdb
+D:\work\TestModsen\BooksLibrary\Books.Domain\obj\Debug\net8.0\Books.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\TestModsen\BooksLibrary\Books.Domain\obj\Debug\net8.0\Books.Domain.AssemblyInfoInputs.cache
+D:\work\TestModsen\BooksLibrary\Books.Domain\obj\Debug\net8.0\Books.Domain.AssemblyInfo.cs
+D:\work\TestModsen\BooksLibrary\Books.Domain\obj\Debug\net8.0\Books.Domain.csproj.CoreCompileInputs.cache
+D:\work\TestModsen\BooksLibrary\Books.Domain\obj\Debug\net8.0\Books.Domain.dll
+D:\work\TestModsen\BooksLibrary\Books.Domain\obj\Debug\net8.0\refint\Books.Domain.dll
+D:\work\TestModsen\BooksLibrary\Books.Domain\obj\Debug\net8.0\Books.Domain.pdb
+D:\work\TestModsen\BooksLibrary\Books.Domain\obj\Debug\net8.0\ref\Books.Domain.dll
+D:\work\TestModsen\BooksLibrary\Books.Domain\bin\Debug\net8.0\Books.Domain.runtimeconfig.json
+D:\work\TestModsen\BooksLibrary\Books.Domain\obj\Debug\net8.0\Books.Domain.genruntimeconfig.cache
